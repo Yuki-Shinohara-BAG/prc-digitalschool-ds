@@ -20,3 +20,7 @@ Thumbs.db
 # Large / non-source files
 *.pptx
 *.pdf
+
+# Claude Code - keep settings.json but ignore credentials/secrets
+.claude/*
+!.claude/settings.json
