@@ -1,0 +1,17 @@
+{
+  "rules": {
+    "preset-ja-technical-writing": {
+      "sentence-length": { "max": 120 },
+      "max-ten": { "max": 3 },
+      "no-mix-dearu-desumasu": true,
+      "no-double-negative-ja": true,
+      "no-doubled-conjunctive-particle-ga": true,
+      "no-dropping-the-ra": true,
+      "ja-no-weak-phrase": false,
+      "ja-no-redundant-expression": true
+    },
+    "preset-jtf-style": true,
+    "prh": false,
+    "preset-ai-writing": true
+  }
+}
