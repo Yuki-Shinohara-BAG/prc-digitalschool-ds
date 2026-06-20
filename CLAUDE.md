@@ -46,6 +46,7 @@ find . -type d -name "__pycache__" -exec rm -rf {} + 2>/dev/null; find . -type f
 
 | Server | Purpose |
 |--------|---------|
+| serena | Semantic code analysis (LSP-based symbol navigation, refactoring) |
 | textlint | Japanese text proofreading |
 | context7 | Latest library documentation lookup |
 | playwright | Browser automation |
