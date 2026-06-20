@@ -1,0 +1,69 @@
+﻿カラム名,名称(漢字),名称(英語)
+ID,ID,
+CSRC_CNTR_ID,CSRC ｾﾝﾀID,
+MODEL_CD,機種ｺｰﾄﾞ,
+MACH_ID,ﾏｼﾝID,
+DATE_TIME,取得日,
+LOCAL_DATE_TIME,取得日,
+OPTION_ITEM1,ADF,ADF
+OPTION_ITEM2,PFU1,PFU1
+OPTION_ITEM3,PFU2,PFU2
+OPTION_ITEM4,PFU3,PFU3
+OPTION_ITEM5,LCT,LCT
+OPTION_ITEM6,Bypass,Bypass
+OPTION_ITEM7,Stacker1,Stacker1
+OPTION_ITEM8,Stacker2,Stacker2
+OPTION_ITEM9,Multi folder,Multi folder
+OPTION_ITEM10,Saddle stitcher,Saddle stitcher
+OPTION_ITEM11,Perfect binder,Perfect binder
+OPTION_ITEM12,Multi puncher,Multi puncher
+OPTION_ITEM13,Transporter1,Transporter1
+OPTION_ITEM14,Transporter2,Transporter2
+OPTION_ITEM15,Humidification kit,Humidification kit
+OPTION_ITEM16,Entry stapler,Entry stapler
+OPTION_ITEM17,Post Inserter,Post Inserter
+OPTION_ITEM18,Punch Kit,Punch Kit
+OPTION_ITEM19,Ring Binder,Ring Binder
+OPTION_ITEM20,All-in-One Finisher,All-in-One Finisher
+OPTION_ITEM21,AIO Option1,AIO Option1
+OPTION_ITEM22,AIO Option2,AIO Option2
+OPTION_ITEM23,AIO Option3,AIO Option3
+OPTION_ITEM24,Z-folding,Z-folding
+OPTION_ITEM25,Transporter3,Transporter3
+OPTION_ITEM26,External FNS,External FNS
+OPTION_ITEM27,Envelope Fusing,Envelope Fusing
+OPTION_ITEM28,Open Stacker,Open Stacker
+OPTION_ITEM29,Square Folder,Square Folder
+OPTION_ITEM30,Slitter,Slitter
+OPTION_ITEM31,Creaser,Creaser
+OPTION_ITEM32,Controller,Controller
+OPTION_ITEM33,ICCU,ICCU
+OPTION_ITEM34,External FNS2,External FNS2
+OPTION_ITEM35,PI-PFU,PI-PFU
+OPTION_ITEM36,Stacker3,Stacker3
+OPTION_ITEM37,Transporter4,Transporter4
+OPTION_ITEM38,Transporter5,Transporter5
+OPTION_ITEM39,Transporter6,Transporter6
+OPTION_ITEM40,Auto Inspection Board,Auto Inspection Board
+OPTION_ITEM41,Trimmer Unit,Trimmer Unit
+OPTION_ITEM42,Trimmer Option1,Trimmer Option1
+OPTION_ITEM43,Trimmer Option2,Trimmer Option2
+OPTION_ITEM44,Trimmer Option3,Trimmer Option3
+OPTION_ITEM45,Trimmer Option4,Trimmer Option4
+OPTION_ITEM46,Media Sensor,Media Sensor
+OPTION_ITEM47,Trimmer Option5,Trimmer Option5
+OPTION_ITEM48,Trimmer Option6,Trimmer Option6
+OPTION_ITEM49,Trimmer Option7,Trimmer Option7
+CREATE_DATE,作成日,
+CREATOR_ID,作成者,
+UPDATE_DATE,更新日,
+UPDATER_ID,更新者,
+EXCEL,Excelダウンロード回数,
+ACCESS,参照回数,
+CREATES,作成回数,
+UPDATES,更新回数,
+DELETES,削除回数,
+SEARCH,検索回数,
+CHAIN_ID,チェーンID,
+COMMAND,コマンド,
+FILE_VERSION,ファイルバージョン,

@@ -1,0 +1,31 @@
+[project]
+name = "prc-digitalschool-ds"
+version = "0.1.0"
+description = "デジスク研修DS実践コース用"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+ "jupyter>=1.1.1",
+ "matplotlib>=3.10.9",
+ "matplotlib-fontja>=1.1.0",
+ "numpy>=2.4.6",
+ "openpyxl>=3.1.5",
+ "pandas>=3.0.3",
+ "pyarrow>=24.0.0",
+ "scikit-learn>=1.8.0",
+ "seaborn>=0.13.2",
+]
+[dependency-groups]
+dev = ["ruff>=0.4", "pytest>=7.0"]
+[tool.ruff]
+unfixable = ["F401", "F403"]
+line-length = 120
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]
+ignore = ["F403", "F401"]
+[tool.ruff.lint.per-file-ignores]
+"__init__.py" = ["F401"]
+[tool.ruff.lint.isort]
+known-first-party = ["src"]
+section-order = ["future", "standard-library", "third-party", "first-party", 
+"local-folder"]
