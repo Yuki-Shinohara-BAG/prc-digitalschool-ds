@@ -21,6 +21,7 @@ Thumbs.db
 *.pptx
 *.pdf
 
-# Claude Code - keep settings.json but ignore credentials/secrets
+# Claude Code - keep config but ignore credentials/secrets
 .claude/*
 !.claude/settings.json
+!.claude/mcp.json
